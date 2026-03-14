@@ -29,6 +29,7 @@ public class Zadanie1_1 {
                         "Błąd walidacji",
                         JOptionPane.WARNING_MESSAGE
                 );
+                continue;
             }
             //jak tekst ok to wychodzimy z pętli
             else{
