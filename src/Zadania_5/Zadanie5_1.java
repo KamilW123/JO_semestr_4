@@ -2,7 +2,6 @@ package Zadania_5;
 
 import java.util.*;
 
-// Klasa Wspolrzedna uczy się, jak się porównywać z innymi współrzędnymi (implementuje Comparable)
 class Wspolrzedna implements Comparable<Wspolrzedna> {
     private int x, y;
 
